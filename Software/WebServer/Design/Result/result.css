@@ -1,0 +1,185 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'MyFont2';
+    src: local('BIZ UDPGothic'),
+    local('BIZ-UDPGothic');
+  }
+
+html, body {
+    /* display:  block; */
+    background-image : url(img/result.png);
+    background-repeat : no-repeat;
+    width: 1920px;
+    height: 1080px;
+    font-size: 24px;
+    font-family: "MyFont2";
+    font-weight: bold;
+    /* background: #ffffff; */
+    color: white;
+    margin: 0;
+}
+
+.header {
+    display: block;
+    /* background-color: #ffc8c8; */
+    position: relative;
+    text-align: center;
+    width: 100%;
+    height: 250px;
+    font-size: 64px;
+}
+
+.difficult{
+    position: absolute;
+    top: 50px;
+    left: 20px;
+    height: 60%;
+}
+
+.container {
+    display: block;
+    width: 1920px;
+    height: 660px;
+}
+
+.rank {
+    /* display:  inline-block; */
+    float: left;
+    position: relative;
+    /* background-color: #c8ffe1; */
+    text-align: center;
+    width: 560px;
+    height: 100%;
+    font-size: 64px;
+}
+
+.result_img{
+        position: absolute;
+    top: 30px;
+    left: 70px;
+}
+
+.rank_img{
+    position: absolute;
+    top: 170px;
+    left: 80px;
+}
+
+.detail {
+    /* display:  inline-block; */
+    float: right;
+    /* position: relative; */
+    /* background-color: #c8d7ff; */
+    height: 100%;
+    width: 1360px;
+}
+
+.name {
+    position: relative;
+    font-weight: normal;
+    font-size: 70px;
+    height: 132px;
+    text-align: right;
+}
+.score {
+    position: relative;
+    font-weight: bold;
+    font-size: 130px;
+    height: 200px;
+    text-align: right;
+}
+
+a {
+    position: absolute;
+    padding-bottom:12px;
+    right: 100px;
+    bottom: 0;
+}
+
+.detail2 {
+    display: inline-block;
+    vertical-align: top;
+    /* position: ; */
+    width: 100%;
+    height: 379px;
+}
+
+.detail2 .team {
+    display: inline-block;
+    vertical-align: top;
+
+    width: 400px;
+    height: 100%;
+}
+
+.team_img {
+    height: 60%;
+    margin-top: 80px;
+}
+
+.detail2 .virus {
+    display: inline-block;
+    vertical-align: top;
+    left: 860px;
+    width: 430px;
+    height: 100%;
+    color: rgba(255, 255, 255, 0);
+}
+
+.detail2 .virus a{
+    display: block;
+    position: static;
+    text-align: center;
+    right: 0;
+    font-size: 96px;
+    margin-top: 130px;
+    color: #FFFFFF;
+    /* width: 100%; */
+}
+
+.detail2 .panel {
+    display: inline-block;
+    vertical-align: top;
+
+    /* position: absolute; */
+    left: 1300px;
+    /* width: 600px; */
+    height: 100%;
+    color: rgba(255, 255, 255, 0);
+}
+
+.detail .panel table {
+    display: block;
+    position: relative;
+    text-align: center;
+    font-weight: normal;
+    color: #FFFFFF;
+    right: 0;
+    font-size: 40px;
+    margin-top: 115px;
+    margin-left: 90px;
+}
+
+.detail .panel th {
+    text-align: left;
+    font-weight: normal;
+    width: 165px;
+    height: 45px;
+}
+
+.detail .panel td {
+    text-align: right;
+    font-weight: normal;
+}
+
+.footer{
+    display: block;
+    text-align: center;
+    font-weight: normal;
+    font-size: 56px;
+    padding-top: 40px;
+    /* background-color: #fff9c8; */
+    height: 120px;
+    width: 100%;
+}

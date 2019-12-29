@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'MyFont2';
+    src: local('Source Han Sans JP'),
+    local('Source-Han-Sans-JP');
+  }
+
+html, body {
+    /* display:  block; */
+    background-image : url(img/ranking.png);
+    background-repeat : no-repeat;
+    width: 1920px;
+    height: 1080px;
+    font-size: 56px;
+    font-family: "MyFont2";
+    color: white;
+    margin: 0;
+}
+
+table {
+    position: absolute;
+    top: 280px;
+    left: 270px;
+    padding: 0;
+}
+
+tr {
+    height: 74px;
+    padding: 0;
+}
+
+
+th, td {
+    line-height: 0;
+    white-space: nowrap;
+    padding: 0;
+}
+
+.name {
+    width: 720px;
+}
+
+.difficulty {
+    width: 235px;
+}
+
+.team{
+    width: 210px;
+}
+
+.score {
+    width: 300px;    
+}

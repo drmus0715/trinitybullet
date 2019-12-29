@@ -1,0 +1,73 @@
+<p>RawData</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>name</th>
+      <th>team</th>
+      <th>difficulty</th>
+      <th>redPoint</th>
+      <th>bluePoint</th>
+      <th>greenPoint</th>
+      <th>hitPoint</th>
+      <th>remainingTime</th>
+    </tr>
+  </thead>
+  <% @record.each do |record| %>
+    <tbody>
+      <tr>
+        <td><%= record.id %></td>
+        <td><%= record.name %></td>
+        <td><%= record.team %></td>
+        <td><%= record.difficulty %></td>
+        <td><%= record.redPoint %></td>
+        <td><%= record.bluePoint %></td>
+        <td><%= record.greenPoint %></td>
+        <td><%= record.hitPoint %></td>
+        <td><%= record.remainingTime %></td>
+      </tr>
+    </tbody>
+    <% end %>
+</table>
+
+<p>PlayerData</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>name</th>
+      <th>team</th>
+      <th>difficulty</th>
+      <th>score</th>
+      <th>rank</th>
+      <th>virusnum</th>
+      <th>gameResult</th>
+      <th>redPoint</th>
+      <th>bluePoint</th>
+      <th>greenPoint</th>
+      <th>hitPoint</th>
+      <th>remainingTime</th>
+    </tr>
+  </thead>
+  <% @player.each do |player| %>
+    <tbody>
+      <tr>
+        <td><%= player.id %></td>
+        <td><%= player.name %></td>
+        <td><%= player.team %></td>
+        <td><%= player.difficulty %></td>
+        <td><%= player.score %></td>
+        <td><%= player.rank %></td>
+        <td><%= player.virusnum %></td>
+        <td><%= player.gameResult %></td>
+        <td><%= player.redPoint %></td>
+        <td><%= player.bluePoint %></td>
+        <td><%= player.greenPoint %></td>
+        <td><%= player.hitPoint %></td>
+        <td><%= player.remainingTime %></td>
+      </tr>
+    </tbody>
+    <% end %>
+</table>

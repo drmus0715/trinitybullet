@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="./ranking.css">
+    <title>Ranking - Trinity Bullet</title>
+</head>
+
+<body>
+<table>
+<colgroup>
+<col span="1" class="name">
+<col span="1" class="difficulty">
+<col span="1" class="team">
+<col span="1" class="score">
+</colgroup>
+<tbody>
+    <% @player.each_with_index  do |player, i| %>
+        <% break  if i == 10 %>
+        <tr>
+            <td><%= player.name %></td>
+            <td><%= player.difficulty %></td>
+            <td><%= player.team %></td>
+            <td><%= player.score.to_s(:delimited) %></td>
+        </tr>
+    <% end %>
+</tbody>
+</table>
+<script>
+// reloadの応用方法
+// キャッシュを利用してリロードする方法
+function doReloadWithCache() {
+ 
+    // キャッシュを利用してリロード
+    window.location.reload(false);
+ 
+}
+ 
+window.addEventListener('load', function () {
+ 
+    // ページ表示完了した3秒後にリロード
+    setTimeout(doReloadWithCache, 3000);
+ 
+});
+</script>
+</body>
+</html>

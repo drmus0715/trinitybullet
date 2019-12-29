@@ -1,0 +1,14 @@
+source 'https://rubygems.org'
+
+git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
+
+gem 'sinatra', '~> 1.4.7'
+gem 'sinatra-contrib'
+# gem 'sinatra-websocket'
+gem 'sinatra-activerecord'
+gem 'activerecord'
+gem 'sqlite3'
+# gem 'serialport'
+gem 'eventmachine'
+gem 'thin'
+gem 'json'

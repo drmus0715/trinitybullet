@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="./print.css">
+    <title>Print - Trinity Bullet</title>
+</head>
+
+<body>
+    <img src="./img/receipt_coupon_v2.svg">
+    <div class="info">
+        <div class="base" style="top: 22mm; left: 23mm;">
+            <%= @player[:name] %>
+        </div>
+        <div class="base" style="top: 30mm; left: 23mm;">
+            <%= @player[:team] %>
+        </div>
+        <div class="base" style="top: 38mm; left: 23mm;">
+            <%= @player[:difficulty] %>
+        </div>
+        <div class="base" style="top: 47mm; left: 30mm; font-size: 27px;">
+            <%= @player[:score].to_s(:delimited) %>
+        </div>
+
+        <div class="base" style="top: 60mm; left: 6mm; font-size: 19px; font-weight: 600;">
+            <%= @gameResult %>
+        </div>
+
+        <div class="base" style="top: 67mm; left: 18mm; font-size: 28px; font-weight: 600;">
+            <%= @player[:rank] %>
+        </div>
+
+        <div class="base" style="top: 60mm; left: 64mm; font-size: 12px;">
+            <%= @player[:redPoint] %>枚
+        </div>
+        <div class="base" style="top: 64mm; left: 64mm; font-size: 12px;">
+            <%= @player[:bluePoint] %>枚
+
+        </div>
+        <div class="base" style="top: 68mm; left: 64mm; font-size: 12px;">
+            <%= @player[:greenPoint] %>枚
+        </div>
+
+        <div class="base" style="top: 73mm; left: 55mm; font-size: 12px;">
+            <%= @player[:virusnum] %>匹
+        </div>
+
+        <div class="base" style="top: 80mm; left: 36mm; font-size: 28px; font-weight: 600;">
+            <%= @virusSum.to_s(:delimited) %>
+        </div>
+
+    </div>
+
+    <script>
+// reloadの応用方法
+// キャッシュを利用してリロードする方法
+function doReloadWithCache() {
+ 
+    // キャッシュを利用してリロード
+    window.location.reload(false);
+ 
+}
+ 
+window.addEventListener('load', function () {
+ 
+    // ページ表示完了した3秒後にリロード
+    setTimeout(doReloadWithCache, 3000);
+ 
+});
+</script>
+</body>
+
+</html>

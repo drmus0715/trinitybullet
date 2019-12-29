@@ -1,0 +1,57 @@
+{
+    "name": "DFRobotDFPlayerMini", 
+    "version": "1.0.5", 
+    "keywords": [
+        "device", 
+        "control"
+    ], 
+    "description": "Driver for DFPlayer Mini from DFRobot", 
+    "frameworks": [
+        "arduino",
+        "espidf"
+    ], 
+    "platforms": [
+        "atmelavr", 
+        "atmelsam", 
+        "espressif32", 
+        "espressif8266", 
+        "intel_arc32", 
+        "microchippic32", 
+        "nordicnrf51", 
+        "nordicnrf52", 
+        "ststm32", 
+        "teensy", 
+        "timsp430"
+    ], 
+    "authors": [
+        {
+            "email": null, 
+            "url": null, 
+            "maintainer": false, 
+            "name": "DFRobot"
+        }, 
+        {
+            "email": "angelo.qiao@dfrobot.com", 
+            "url": null, 
+            "maintainer": true, 
+            "name": "Angelo"
+        }
+    ], 
+    "repository": {
+        "type": "git", 
+        "url": "https://github.com/DFRobot/DFRobotDFPlayerMini"
+    }, 
+    "homepage": null, 
+    "export": {
+        "include": null, 
+        "exclude": [
+            "extras", 
+            "docs", 
+            "tests", 
+            "test", 
+            "*.doxyfile", 
+            "*.pdf"
+        ]
+    }, 
+    "id": 1308
+}

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="print.css">
+    <title>Hub - Trinity Bullet</title>
+    <style>
+        html,
+        body {
+            /* display:  block; */
+            background-color: #0a001e;
+            /* font-size: 60px; */
+            font-family: "MyFont";
+            /* font-family: "mplus-1p-regular"; */
+            /* background: #ffffff; */
+            color: white;
+            margin: 0;
+        }
+
+        .container {
+            /* font-family: "Yu Gothic", YuGothic, Verdana, 'Hiragino Kaku Gothic ProN', 'Hiragino Kaku Gothic Pro', 'ヒラギノ角ゴ Pro W3', 'メイリオ', Meiryo, sans-serif; */
+            text-align: center;
+            padding-top: 10px;
+            /* padding-bottom: 40px; */
+            /* background-color: #000; */
+        }
+
+        p {
+            font-size: 48px;
+            margin: 10px;
+            padding: 5px;
+            font-weight: bold;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.212);
+        }
+
+        /* ここから下がボタンのCSS　*/
+        .btn-shine {
+            color: #FFF;
+            display: inline-block;
+            font-size: 32px;
+            font-weight: normal;
+            line-height: 85px;
+            width: 400px;
+            position: relative;
+            text-decoration: none;
+            text-transform: uppercase;
+            border: 1px solid transparent;
+            outline: 1px solid;
+            outline-color: rgba(126, 115, 115, 0.5);
+            outline-offset: 0px;
+            text-shadow: none;
+            transition: all 1.2s cubic-bezier(0.2, 1, 0.2, 1);
+            margin: 10px;
+        }
+
+        .btn-shine:hover {
+            border-color: #FFF;
+            box-shadow: inset 0 0 20px rgba(255, 255, 255, 0.5), 0 0 20px rgba(255, 255, 255, 0.2);
+            outline-color: transparent;
+            outline-offset: 12px;
+            text-shadow: 2px 2px 3px #000;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <p>Trinity Bullet Result Gateway</p>
+
+        <a href="/result" class="btn-shine">結果</a>
+        <a href="/ranking" class="btn-shine">ランキング</a>
+        <a href="/info" class="btn-shine">ウイルス討伐数</a>
+        <a href="/ranking_rd" class="btn-shine">(no redi.)ランキング</a>
+        <a href="/info_rd" class="btn-shine">(no redi.)ウイルス討伐数</a>
+        <a href="/print" class="btn-shine">レシート印刷</a>
+        <a href="/dbdebug" class="btn-shine">DB Debug</a>
+    </div>
+</body>
+
+</html>

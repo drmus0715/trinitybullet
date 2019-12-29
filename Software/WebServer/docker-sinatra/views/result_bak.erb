@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="style.css">
+  <title>Result - Trinity Bullet</title>
+</head>
+
+<body>
+  <div class="title">
+  </div>
+
+  <div class="container">
+    <div class="rank">
+      <img src="./img/rank_s.png" id="RANK">
+    </div>
+
+    <div class="detail">
+      <div class="name">
+        <a><%= @player[:name] %></a>
+      </div>
+      <div class="score">
+        <a><%= @player[:score] %></a>
+      </div>
+      <div class="detail2">
+        <div class="team"><img src="./img/blue.png" id="TEAM">
+        </div>
+        <div class="virus">撃破ウイルス数<a>ここ忘れてる</a>
+        </div>
+        <div class="panel">踏んだパネルの数
+          <table>
+            <tr>
+              <th>Red</td>
+              <td><%= @player[:redPoint] %></td>
+            </tr>
+            <tr>
+              <th>Blue</td>
+              <td><%= @player[:bluePoint] %></td>
+            </tr>
+            <tr>
+              <th>Green</td>
+              <td><%= @player[:greenPoint] %></td>
+            </tr>
+          </table>
+        </div>
+      </div>
+
+
+    </div>
+  </div>
+
+
+
+  <div class="footer">残りウイルスは 10,000匹 だ！キミの活躍でこの世界は救われる。</div>
+
+</body>
+
+</html>

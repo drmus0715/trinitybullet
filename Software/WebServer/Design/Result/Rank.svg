@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1080"
+   viewBox="0 0 507.99999 285.75001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Rank.svg">
+  <defs
+     id="defs2">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2539"
+       x="-0.38818621"
+       width="1.7763724"
+       y="-0.25747548"
+       height="1.514951">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="5.907914"
+         id="feGaussianBlur2541" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2539-2"
+       x="-0.38818622"
+       width="1.7763724"
+       y="-0.25747547"
+       height="1.514951">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="5.907914"
+         id="feGaussianBlur2541-2" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2539-2-7"
+       x="-0.38818622"
+       width="1.7763724"
+       y="-0.25747547"
+       height="1.514951">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="5.907914"
+         id="feGaussianBlur2541-2-2" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2539-2-7-1"
+       x="-0.38818622"
+       width="1.7763724"
+       y="-0.25747547"
+       height="1.514951">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="5.907914"
+         id="feGaussianBlur2541-2-2-8" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter8904"
+       x="-0.19199999"
+       width="1.384"
+       y="-0.19200001"
+       height="1.384">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.6543414"
+         id="feGaussianBlur8906" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter9036"
+       x="-0.19199999"
+       width="1.384"
+       y="-0.19200001"
+       height="1.384">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.6543414"
+         id="feGaussianBlur9038" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter9040"
+       x="-0.19199999"
+       width="1.384"
+       y="-0.19200001"
+       height="1.384">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.6543414"
+         id="feGaussianBlur9042" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter9044"
+       x="-0.19199999"
+       width="1.384"
+       y="-0.19200001"
+       height="1.384">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.6543414"
+         id="feGaussianBlur9046" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1082"
+       x="-0.03905322"
+       width="1.0781064"
+       y="-0.12941214"
+       height="1.2588243">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.74236345"
+         id="feGaussianBlur1084" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1082-6"
+       x="-0.03905322"
+       width="1.0781064"
+       y="-0.12941214"
+       height="1.2588243">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.74236345"
+         id="feGaussianBlur1084-0" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1082-6-6"
+       x="-0.03905322"
+       width="1.0781064"
+       y="-0.12941214"
+       height="1.2588243">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.74236345"
+         id="feGaussianBlur1084-0-9" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1082-6-6-6"
+       x="-0.03905322"
+       width="1.0781064"
+       y="-0.12941214"
+       height="1.2588243">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.74236345"
+         id="feGaussianBlur1084-0-9-5" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="1033.0349"
+     inkscape:cy="792.65245"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer3"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="801"
+     inkscape:window-height="434"
+     inkscape:window-x="64"
+     inkscape:window-y="64"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1052" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="背景"
+     transform="translate(0,-11.249913)"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#0a001e;fill-opacity:1;stroke:none;stroke-width:2.60088038;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect815"
+       width="616.85809"
+       height="277.15851"
+       x="-39.021351"
+       y="-27.732477" />
+  </g>
+  <g
+     inkscape:label="Base"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-11.249913)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="rank">
+    <g
+       id="g1067"
+       transform="matrix(0.9,0,0,0.9,27.195767,10.694814)">
+      <path
+         transform="matrix(1.2190418,0,0,1.2190418,-58.163411,-37.105965)"
+         id="rect834-6"
+         d="M 99.691526,77.116915 141.28117,118.70654 99.691526,160.29618 58.101899,118.70654 Z"
+         style="fill:#f0ff01;fill-opacity:1;stroke:#ffffff;stroke-width:0.40017515;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter8904)"
+         inkscape:connector-curvature="0" />
+      <path
+         id="rect7975-1-8"
+         d="M 21.653215,80.395044 105.07625,50.807947 V 130.46547 L 21.653215,160.0525 Z"
+         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.74902153;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="matrix(0.92188397,0,0,0.92188397,292.44231,-51.532008)"
+         id="text832-7"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         aria-label="S">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:58.77375793px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38876393"
+           x="-270.32031"
+           y="195.06395"
+           id="text1527"><tspan
+             sodipodi:role="line"
+             id="tspan1525"
+             x="-270.32031"
+             y="195.06395"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:69.97369385px;font-family:'Source Han Serif JP';-inkscape-font-specification:'Source Han Serif JP Heavy';fill:#000000;fill-opacity:1;stroke-width:0.38876393">S</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.92188397,0,0,0.92188397,292.44231,-51.714394)"
+         id="text832-7-4"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#eefc00;fill-opacity:1;stroke:none;stroke-width:0.26458332;filter:url(#filter2539)"
+         aria-label="S">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:58.77375793px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#eefc00;fill-opacity:1;stroke:none;stroke-width:0.38876393"
+           x="-270.32031"
+           y="195.06395"
+           id="text1527-2"><tspan
+             sodipodi:role="line"
+             id="tspan1525-1"
+             x="-270.32031"
+             y="195.06395"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:69.97369385px;font-family:'Source Han Serif JP';-inkscape-font-specification:'Source Han Serif JP Heavy';fill:#eefc00;fill-opacity:1;stroke-width:0.38876393">S</tspan></text>
+      </g>
+      <g
+         style="opacity:1"
+         transform="matrix(1.1850601,0,0,1.1850601,-58.504331,-117.74586)"
+         id="g1090">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;filter:url(#filter1082)"
+           x="66.952576"
+           y="154.42928"
+           id="text1022-0"><tspan
+             sodipodi:role="line"
+             id="tspan1020-1"
+             x="66.952576"
+             y="154.42928"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.75555611px;font-family:'Sitka Text';-inkscape-font-specification:'Sitka Text';fill:#000000;stroke-width:0.26458332">Rank</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="67.084648"
+           y="154.41168"
+           id="text1022"><tspan
+             sodipodi:role="line"
+             id="tspan1020"
+             x="67.084648"
+             y="154.41168"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.75555611px;font-family:'Sitka Text';-inkscape-font-specification:'Sitka Text';fill:#ffffff;stroke-width:0.26458332">Rank</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1082"
+       inkscape:export-filename="C:\Users\drmus\Documents\Git\esc-magicbullet\Software\Webderver\Design\Result\img\rank_a.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="matrix(0.9,0,0,0.9,27.195767,10.694814)">
+      <path
+         transform="matrix(1.2190418,0,0,1.2190418,84.269395,-38.414223)"
+         id="rect834-6-9"
+         d="M 99.691526,77.116915 141.28117,118.70654 99.691526,160.29618 58.101899,118.70654 Z"
+         style="fill:#d66126;fill-opacity:1;stroke:#ffffff;stroke-width:0.40017515;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter9036)"
+         inkscape:connector-curvature="0" />
+      <path
+         id="rect7975-1-8-3"
+         d="m 164.08601,79.086789 83.42305,-29.5871 v 79.657531 l -83.42305,29.58703 z"
+         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.74902201;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="matrix(0.92188398,0,0,0.92188398,430.32733,-52.84027)"
+         id="text832-7-3"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         aria-label="S">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:58.77375793px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38876393"
+           x="-270.32031"
+           y="195.06395"
+           id="text1527-8"><tspan
+             sodipodi:role="line"
+             id="tspan1525-3"
+             x="-270.32031"
+             y="195.06395"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:69.97369385px;font-family:'Source Han Serif JP';-inkscape-font-specification:'Source Han Serif JP Heavy';fill:#000000;fill-opacity:1;stroke-width:0.38876393">A</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.92188398,0,0,0.92188398,430.32733,-51.842866)"
+         id="text832-7-4-0"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#d67426;fill-opacity:1;stroke:none;stroke-width:0.26458332;filter:url(#filter2539-2)"
+         aria-label="S">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:58.77375793px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d67426;fill-opacity:1;stroke:none;stroke-width:0.38876393"
+           x="-270.32031"
+           y="195.06395"
+           id="text1527-2-7"><tspan
+             sodipodi:role="line"
+             id="tspan1525-1-7"
+             x="-270.32031"
+             y="195.06395"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:69.97369385px;font-family:'Source Han Serif JP';-inkscape-font-specification:'Source Han Serif JP Heavy';fill:#d67426;fill-opacity:1;stroke-width:0.38876393">A</tspan></text>
+      </g>
+      <g
+         style="opacity:1"
+         transform="matrix(1.1850601,0,0,1.1850601,83.005118,-118.27503)"
+         id="g1090-1">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;filter:url(#filter1082-6)"
+           x="66.952576"
+           y="154.42928"
+           id="text1022-0-7"><tspan
+             sodipodi:role="line"
+             id="tspan1020-1-2"
+             x="66.952576"
+             y="154.42928"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.75555611px;font-family:'Sitka Text';-inkscape-font-specification:'Sitka Text';fill:#000000;stroke-width:0.26458332">Rank</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="67.084648"
+           y="154.41168"
+           id="text1022-6"><tspan
+             sodipodi:role="line"
+             id="tspan1020-4"
+             x="67.084648"
+             y="154.41168"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.75555611px;font-family:'Sitka Text';-inkscape-font-specification:'Sitka Text';fill:#ffffff;stroke-width:0.26458332">Rank</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1097"
+       inkscape:export-filename="C:\Users\drmus\Documents\Git\esc-magicbullet\Software\Webderver\Design\Result\img\rank_b.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="matrix(0.9,0,0,0.9,27.195767,10.694814)">
+      <path
+         transform="matrix(1.2190418,0,0,1.2190418,218.97323,-38.414223)"
+         id="rect834-6-9-9"
+         d="M 99.691526,77.116915 141.28117,118.70654 99.691526,160.29618 58.101899,118.70654 Z"
+         style="fill:#2665d6;fill-opacity:1;stroke:#ffffff;stroke-width:0.40017515;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter9040)"
+         inkscape:connector-curvature="0" />
+      <path
+         id="rect7975-1-8-3-8"
+         d="m 298.78985,79.086789 83.42304,-29.5871 v 79.657531 l -83.42304,29.58703 z"
+         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.74902201;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="matrix(0.92188398,0,0,0.92188398,565.86977,-49.136101)"
+         id="text832-7-3-0"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         aria-label="S">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:58.77375793px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38876393"
+           x="-270.32031"
+           y="195.06395"
+           id="text1527-8-8"><tspan
+             sodipodi:role="line"
+             id="tspan1525-3-6"
+             x="-270.32031"
+             y="195.06395"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:69.97369385px;font-family:'Source Han Serif JP';-inkscape-font-specification:'Source Han Serif JP Heavy';fill:#000000;fill-opacity:1;stroke-width:0.38876393">B</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.92188398,0,0,0.92188398,565.86977,-48.405966)"
+         id="text832-7-4-0-5"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#d69926;fill-opacity:1;stroke:none;stroke-width:0.26458332;filter:url(#filter2539-2-7)"
+         aria-label="S">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:58.77375793px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#d69926;fill-opacity:1;stroke:none;stroke-width:0.38876393"
+           x="-270.32031"
+           y="195.06395"
+           id="text1527-2-7-6"><tspan
+             sodipodi:role="line"
+             id="tspan1525-1-7-2"
+             x="-270.32031"
+             y="195.06395"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:69.97369385px;font-family:'Source Han Serif JP';-inkscape-font-specification:'Source Han Serif JP Heavy';fill:#2665d6;fill-opacity:1;stroke-width:0.38876393">B</tspan></text>
+      </g>
+      <g
+         style="opacity:1"
+         transform="matrix(1.1850601,0,0,1.1850601,217.20785,-118.27503)"
+         id="g1090-1-2">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;filter:url(#filter1082-6-6)"
+           x="66.952576"
+           y="154.42928"
+           id="text1022-0-7-9"><tspan
+             sodipodi:role="line"
+             id="tspan1020-1-2-6"
+             x="66.952576"
+             y="154.42928"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.75555611px;font-family:'Sitka Text';-inkscape-font-specification:'Sitka Text';fill:#000000;stroke-width:0.26458332">Rank</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="67.084648"
+           y="154.41168"
+           id="text1022-6-2"><tspan
+             sodipodi:role="line"
+             id="tspan1020-4-6"
+             x="67.084648"
+             y="154.41168"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.75555611px;font-family:'Sitka Text';-inkscape-font-specification:'Sitka Text';fill:#ffffff;stroke-width:0.26458332">Rank</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1112"
+       inkscape:export-filename="C:\Users\drmus\Documents\Git\esc-magicbullet\Software\Webderver\Design\Result\img\rank_c.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       transform="matrix(0.9,0,0,0.9,27.195767,10.694814)">
+      <path
+         transform="matrix(1.2190418,0,0,1.2190418,359.02246,-38.414223)"
+         id="rect834-6-9-9-9"
+         d="M 99.691526,77.116915 141.28117,118.70654 99.691526,160.29618 58.101899,118.70654 Z"
+         style="fill:#26d64b;fill-opacity:1;stroke:#ffffff;stroke-width:0.40017515;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter9044)"
+         inkscape:connector-curvature="0" />
+      <path
+         id="rect7975-1-8-3-8-8"
+         d="m 438.83908,79.086789 83.42304,-29.5871 v 79.657531 l -83.42304,29.58703 z"
+         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:6.74902201;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="matrix(0.92188398,0,0,0.92188398,705.76376,-51.252769)"
+         id="text832-7-3-0-9"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         aria-label="S">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:58.77375793px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38876393"
+           x="-270.32031"
+           y="195.06395"
+           id="text1527-8-8-8"><tspan
+             sodipodi:role="line"
+             id="tspan1525-3-6-0"
+             x="-270.32031"
+             y="195.06395"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:69.97369385px;font-family:'Source Han Serif JP';-inkscape-font-specification:'Source Han Serif JP Heavy';fill:#000000;fill-opacity:1;stroke-width:0.38876393">C</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.92188398,0,0,0.92188398,705.76376,-51.591712)"
+         id="text832-7-4-0-5-9"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#4cd626;fill-opacity:1;stroke:none;stroke-width:0.26458332;filter:url(#filter2539-2-7-1)"
+         aria-label="S">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:58.77375793px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4cd626;fill-opacity:1;stroke:none;stroke-width:0.38876393"
+           x="-270.32031"
+           y="195.06395"
+           id="text1527-2-7-6-7"><tspan
+             sodipodi:role="line"
+             id="tspan1525-1-7-2-5"
+             x="-270.32031"
+             y="195.06395"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:69.97369385px;font-family:'Source Han Serif JP';-inkscape-font-specification:'Source Han Serif JP Heavy';fill:#4cd626;fill-opacity:1;stroke-width:0.38876393">C</tspan></text>
+      </g>
+      <g
+         style="opacity:1"
+         transform="matrix(1.1850601,0,0,1.1850601,359.12797,-119.33337)"
+         id="g1090-1-2-8">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;filter:url(#filter1082-6-6-6)"
+           x="66.952576"
+           y="154.42928"
+           id="text1022-0-7-9-7"><tspan
+             sodipodi:role="line"
+             id="tspan1020-1-2-6-7"
+             x="66.952576"
+             y="154.42928"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.75555611px;font-family:'Sitka Text';-inkscape-font-specification:'Sitka Text';fill:#000000;stroke-width:0.26458332">Rank</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="67.084648"
+           y="154.41168"
+           id="text1022-6-2-7"><tspan
+             sodipodi:role="line"
+             id="tspan1020-4-6-2"
+             x="67.084648"
+             y="154.41168"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.75555611px;font-family:'Sitka Text';-inkscape-font-specification:'Sitka Text';fill:#ffffff;stroke-width:0.26458332">Rank</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

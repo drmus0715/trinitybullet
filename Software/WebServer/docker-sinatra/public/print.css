@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'MyFont';
+    src: local('Source Han Sans JP Normal'),
+    local('SourceHanSansJP-Normal');
+  }
+
+html, body {
+    /* display:  block; */
+    /* background-image : url(receipt.png);
+    background-repeat : no-repeat; */
+    width: 80mm;
+    height: 150mm;
+    /* font-size: 60px; */
+    /* font-family: Tahoma, Arial, Helvetica, sans-serif; */
+    /* font-family: "mplus-1p-regular"; */
+    /* background: #ffffff; */
+    /* color: black; */
+    margin: 0;
+}
+
+.sheet {
+    page-break-after: always;
+  }
+
+img {
+    position: fixed;
+    top: 0;
+    left: 0;
+    /* width: 100%;
+    height: 100%; */
+}
+.info {
+    font-size: 16px;
+    font-family: "MyFont";
+    font-weight: Normal;
+}
+
+.info .base {
+    position: absolute;
+    width: auto;
+    margin: 0;
+    text-align: left;
+}
+
+@page {
+    size: 80mm 297mm;
+    margin: 0;
+}
+
+@media print {
+
+}

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="ranking.css">
+    <title>Ranking - Trinity Bullet</title>
+</head>
+
+<body>
+<table>
+<colgroup>
+<col span="1" class="name">
+<col span="1" class="difficulty">
+<col span="1" class="team">
+<col span="1" class="score">
+</colgroup>
+<tbody>
+    <% @player.each_with_index  do |player, i| %>
+        <tr>
+            <td><%= player.name %></td>
+            <td><%= player.difficulty %></td>
+            <td><%= player.team %></td>
+            <td><%= player.score %></td>
+        </tr>
+    <% break  if i == 10 %>
+    <% end %>
+</tbody>
+</table>
+</body>
+</html>

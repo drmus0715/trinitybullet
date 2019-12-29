@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="./info.css">
+    <title>Info - Trinity Bullet</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="virus"><%= @virusSum.to_s(:delimited) %></div>
+        <div class="virusmax"><%= @virusMax.to_s(:delimited) %>匹</div>
+        <div class="redpoint"><%= @redTeamSum %></div>
+        <div class="bluepoint"><%= @blueTeamSum %></div>
+        <div class="greenpoint"><%= @greenTeamSum %></div>
+    </div>
+
+<script>
+// reloadの応用方法
+// キャッシュを利用してリロードする方法
+function doReloadWithCache() {
+ 
+    // キャッシュを利用してリロード
+    window.location.reload(false);
+ 
+}
+ 
+window.addEventListener('load', function () {
+ 
+    // ページ表示完了した3秒後にリロード
+    setTimeout(doReloadWithCache, 3000);
+ 
+});
+</script>
+</body>
+</html>
