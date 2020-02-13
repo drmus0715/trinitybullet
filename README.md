@@ -4,7 +4,7 @@
 
 詳しい説明は[本リポジトリのWiki](https://github.com/drmus0715/trinitybullet/wiki)を御覧ください。
 
----
+### Contact
 
 プロジェクトEscape - [pjtescape@gmail.com](mailto:pjtescape@gmail.com)  
 Twitter: https://twitter.com/pjtescape  
